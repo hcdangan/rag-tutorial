@@ -1,0 +1,1 @@
+# This folder is where files like PDF files can be stored. The files will be embedded with vector embeddings to demonstrate RAG. 
