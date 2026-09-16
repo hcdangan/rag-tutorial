@@ -25,3 +25,15 @@ BASE_URL
 LLM_MODEL
 EMBEDDING_MODEL
 API_KEY
+
+## Specific Package Versions for pyproject.toml
+
+- Python 3.11.9
+- LangChain:
+  - Core: >=0.3.0
+  - langchain: >=0.3.0
+  - langchain-community: >=0.3.0
+  - langchain-text-splitters: >=0.3.0
+  - langchain-ollama>=0.2.0
+  - langchain-openai>=0.2.0
+
