@@ -105,9 +105,6 @@ rag-tutorial/
 ├── README.md                 # This file
 ├── AI_CONTEXT.md             # Original context
 ├── lesson1_content.md        # Lesson 1 original content (reference)
-└── data/
-    ├── PHILIPPINE CONSTITUTION.pdf
-    └── F-45267701PHL15242_2022.pdf
 ```
 
 ## Resources
